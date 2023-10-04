@@ -1,5 +1,21 @@
 # Full Stack Web Developer Nanodegree program virtual machine
 
+# Docker setup for Mac
+
+To start:
+
+```bash
+docker-compose up -d
+```
+
+Example python app available on http://localhost:3000
+
+DB Adminer available on http://localhost:8080
+
+Postgres/Redis details in docker-compose.yml file
+
+---
+
 <a href="https://www.udacity.com/">
   <img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300" alt="Udacity logo">
 </a>
